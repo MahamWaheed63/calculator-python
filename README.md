@@ -10,3 +10,5 @@ This is a Python calculator project.
 
 ## How to use:
 Run the file and follow instructions.
+## How to run
+python cal.py
